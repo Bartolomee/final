@@ -1,2 +1,3 @@
 esto es jauja
-jartacasapepi .gitignore
+
+jartacasapepi 
